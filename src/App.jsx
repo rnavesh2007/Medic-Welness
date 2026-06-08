@@ -365,6 +365,18 @@ export default function App() {
               <p style={{ margin: 0, fontSize: 12.5, color: COLORS.muted }}>
                 💡 <strong>Try asking:</strong> "How do I book an appointment?" · "What services do you offer?" · "How can I volunteer?" · "Is care free?"
               </p>
+              <footer
+  style={{
+    textAlign: "center",
+    padding: "20px",
+    marginTop: "40px",
+    borderTop: "1px solid #ddd",
+    color: "#666",
+    fontSize: "14px"
+  }}
+>
+  © 2026 Medic Wellness. Developed by Navesh R. All Rights Reserved.
+</footer>
             </div>
           </div>
         )}
