@@ -19,9 +19,10 @@ A mini healthcare support web app built with React and Claude AI.
 ```bash
 npm install
 npm run dev
+```
 
-##Author
+Author
  Navesh R | Department of Artificial Intelligence and Data Science | Student at Vel Tech High Tech Dr Rangarajan Dr Shakunthala Engineering college.
 
-##Copyrights
+Copyrights
 @medic_wellness portal by rnavesh2007
