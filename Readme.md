@@ -13,7 +13,7 @@ A mini healthcare support web app built with React and Claude AI.
 - Anthropic Claude API
 
 ## Live Demo
-[View Live](https://your-app.vercel.app)
+[View Live] https://medic-welness-juk1.vercel.app
 
 ## How to Run
 ```bash
